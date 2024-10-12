@@ -1,0 +1,9 @@
+DEBUG = True
+
+DB_NAME = 'dbname'
+DB_USER = 'dbuser'
+DB_PASS = 'dbpassword'
+
+SECRET_KEY = 'djangosecretkey'
+
+
